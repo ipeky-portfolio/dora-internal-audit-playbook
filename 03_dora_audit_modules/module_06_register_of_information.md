@@ -1,15 +1,15 @@
-##Audit Module 06 – Register der Informationen (ICT Third-Party Register)
+# Audit Module 06 – Register der Informationen (ICT Third-Party Register)
 
-#Zielsetzung (Objective)
+## Zielsetzung (Objective)
 Beurteilung der Vollständigkeit, Richtigkeit und Aktualität des zentralen Registers für alle IKT-Drittanbieterverträge gemäß den strengen Anforderungen von DORA Art. 28. Das Register ist die Basis für die Risikobewertung durch die Aufsicht.
 
-#Hauptrisiken (Key Risks)
+## Hauptrisiken (Key Risks)
 - Unvollständigkeit: Nicht alle vertraglichen Beziehungen mit IKT-Dienstleistern sind erfasst.
 - Falsche Klassifizierung: Kritische Dienstleistungen werden nicht als solche im Register markiert.
 - Mangelnde Datenqualität: Informationen im Register sind veraltet oder inkorrekt (z.B. falsche Ansprechpartner oder Standorte).
 - Fehlende Sub-Outsourcing-Informationen: Die Kette der Unterauftragnehmer ist nicht transparent.
 
-#Prüfungshandlungen (Audit Procedures)
+## Prüfungshandlungen (Audit Procedures)
 
 1. Abgleich und Konsistenzprüfung (Data Integrity)
 - Abgleich mit Kreditorenliste: Abgleich des DORA-Registers mit der offiziellen Kreditorenliste der Buchhaltung/des Einkaufs, um versteckte IKT-Verträge zu finden.
