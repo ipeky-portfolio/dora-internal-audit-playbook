@@ -1,15 +1,15 @@
-## Audit Module 07 – IKT-Asset-Inventar
+# Audit Module 07 – IKT-Asset-Inventar
 
-# Zielsetzung (Objective)
+## Zielsetzung (Objective)
 Beurteilung der Vollständigkeit, Genauigkeit und Aktualität des IKT-Asset-Inventars. Sicherstellung, dass alle IKT-Assets identifiziert, klassifiziert und ihren kritischen Geschäftsprozessen zugeordnet sind, um eine risikobasierte Steuerung zu ermöglichen.
 
-# Hauptrisiken (Key Risks)
+## Hauptrisiken (Key Risks)
 - Unvollständigkeit (Shadow IT): Nicht erfasste Hardware, Software oder Cloud-Dienste entziehen sich dem Sicherheitsmanagement.
 - Fehlende Klassifizierung: Assets sind nicht nach Kritikalität (Vertraulichkeit, Integrität, Verfügbarkeit) bewertet.
 - Fehlende Prozessverknüpfung: Es ist nicht bekannt, welche IKT-Assets welche kritischen Geschäftsprozesse unterstützen.
 - Veraltete Daten: Änderungen in der IT-Landschaft werden nicht zeitnah im Inventar nachgeführt.
 
-# Prüfungshandlungen (Audit Procedures)
+## Prüfungshandlungen (Audit Procedures)
 
 1. Überprüfung der Inventarisierungsprozesse (Completeness)
 - Automatisierung: Nutzen wir automatisierte Discovery-Tools, um das Inventar aktuell zu halten?
