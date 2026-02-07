@@ -1,15 +1,16 @@
-##Audit Module 05 – IKT-Drittparteienrisikomanagement
+# Audit Module 05 – IKT-Drittparteienrisikomanagement
 
-#Zielsetzung (Objective)
+## Zielsetzung (Objective)
 Beurteilung der Wirksamkeit des Managements von Risiken, die aus der Nutzung von IKT-Drittanbietern entstehen. Sicherstellung, dass alle Outsourcing-Verträge DORA-konform sind und die Bank jederzeit die Kontrolle behält.
 
-#Hauptrisiken (Key Risks)
+## Hauptrisiken (Key Risks)
 - Unvollständiges Register: Nicht alle IKT-Dienstleister sind im zentralen Register erfasst.
 - Mangelnde Vertragsinhalte: Fehlen von Audit-Rechten, Service Level Agreements (SLAs) oder klaren Kündigungsfristen.
 - Fehlende Exit-Strategien: Hohe Abhängigkeit von einem Anbieter ohne Möglichkeit des Wechsels (Lock-in-Effekt).
 -- Konzentrationsrisiken: Zu viele kritische Dienste bei einem einzigen Anbieter (z.B. Cloud-Provider).
 
-Prüfungshandlungen (Audit Procedures)
+# Prüfungshandlungen (Audit Procedures)
+
 1. Überprüfung des Informationsregisters (Register of Information)
 - Vollständigkeit: Abgleich des Registers mit dem Asset-Inventar und der Buchhaltung. Sind alle IKT-Verträge enthalten?
 - Kritikalität: Wurde die Einstufung als "kritisch oder wichtig" (critical or important) korrekt nach DORA-Kriterien vorgenommen?
