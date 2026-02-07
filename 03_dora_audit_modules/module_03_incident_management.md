@@ -1,15 +1,15 @@
-##Audit Module 03 – IKT-Vorfallmanagement
+# Audit Module 03 – IKT-Vorfallmanagement
 
-#Zielsetzung (Objective)
+## Zielsetzung (Objective)
 Beurteilung der Fähigkeit der Bank, IKT-bezogene Vorfälle und Cyber-Bedrohungen rechtzeitig zu erkennen, effektiv zu bewältigen, zu analysieren und gemäß den regulatorischen Anforderungen zu melden.
 
-#Hauptrisiken (Key Risks)
+## Hauptrisiken (Key Risks)
 - Verzögerte Erkennung: Vorfälle werden nicht rechtzeitig erkannt, was den Schaden maximiert.
 - Falsche Klassifizierung: Kritische Vorfälle werden als unbedeutend eingestuft (und umgekehrt).
 - Mangelhafte Reaktion: Fehlende oder ineffektive Prozesse zur Behebung des Vorfalls.
 - Fehlende Meldung: Verspätete oder unvollständige Meldung an die zuständigen Behörden (BaFin/EZB).
 
-#Prüfungshandlungen (Audit Procedures)
+## Prüfungshandlungen (Audit Procedures)
 1. Richtlinien und Verfahren überprüfen
 Dokumentenanalyse: Liegt ein Vorfallmanagement-Rahmenwerk vor, das den Anforderungen von DORA Art. 10 ff. entspricht?
 - Rollen: Sind die Verantwortlichkeiten im "Incident Response Team" klar definiert?
