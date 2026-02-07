@@ -1,21 +1,23 @@
 # DORA ↔ MaRisk / BAIT Mapping
 
-## Purpose
-This mapping supports integrated audits by aligning DORA requirements
-with existing German supervisory frameworks.
+## Zweck
+Dieses Mapping unterstützt die **integrierte Prüfung** (Combined Audit), indem es die neuen DORA-Anforderungen mit den bestehenden deutschen aufsichtsrechtlichen Rahmenwerken (MaRisk/BAIT) in Einklang bringt. Es dient dazu, Synergien zu nutzen und Lücken zu identifizieren.
 
-## Regulatory Mapping
+## Regulatorisches Mapping
 
-| DORA Area | MaRisk Reference | BAIT Reference |
-|---------|-----------------|----------------|
-| ICT Governance | AT 4.3.1 | IT-Governance |
-| ICT Risk Management | AT 7.2 | IT-Risikomanagement |
-| Incident Management | AT 7.2 | Informationssicherheit |
-| Resilience Testing | AT 7.2 | IT-Betrieb |
-| Third-Party Risk | AT 9 | Auslagerungen |
+| DORA-Bereich | MaRisk-Referenz | BAIT-Referenz |
+| :--- | :--- | :--- |
+| **IKT-Governance** | AT 4.3.1 (Aufsichtsorgan) | 3. IT-Governance |
+| **IKT-Risikomanagement** | AT 7.2 (IKT-Risiken) | 4. IT-Risikomanagement |
+| **Vorfallmanagement** | AT 7.2 (Notfallmanagement) | 5. Informationssicherheit & 6. IT-Betrieb |
+| **Resilienztests** | AT 7.2 (Geschäftskontinuität) | 6. IT-Betrieb (inkl. Tests) |
+| **IKT-Drittparteienrisiko**| AT 9 (Auslagerungen) | 7. IT-Dienstleistersteuerung |
 
-## Audit Relevance
-- Avoids duplicate audit activities
-- Enables combined audits (DORA / MaRisk / BAIT)
-- Supports BaFin examination readiness
+> **Wichtiger Hinweis:** Die **BAIT** (Bankaufsichtliche Anforderungen an die IT) wurde spezifisch überarbeitet, um DORA-Konformität zu gewährleisten. Die BAIT ist somit die direkte Auslegungshilfe für DORA in Deutschland.
 
+
+
+## Relevanz für das Audit
+* **Vermeidung von Doppelarbeit:** Audit-Aktivitäten werden effizient gebündelt.
+* **Kombinierte Prüfungen:** Ermöglicht effiziente Audits (DORA / MaRisk / BAIT).
+* **Aufsichtsfestigkeit:** Beschleunigt die Bereitschaft für Prüfungen durch die **BaFin** (z.B. §44 KWG-Prüfungen).
