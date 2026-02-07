@@ -1,15 +1,15 @@
-##Audit Module 02 – IKT-Risikomanagement
+# Audit Module 02 – IKT-Risikomanagement
 
-#Zielsetzung (Objective)
+## Zielsetzung (Objective)
 Beurteilung der Wirksamkeit und Angemessenheit des IKT-Risikomanagement-Rahmenwerks. Es muss sichergestellt werden, dass IKT-Risiken identifiziert, bewertet, gemindert und überwacht werden, um die Resilienz der Bank zu gewährleisten.
 
-#Hauptrisiken (Key Risks)
+## Hauptrisiken (Key Risks)
 - Unvollständige Identifikation: IKT-Assets oder Risiken (insb. Cyber-Bedrohungen) wurden übersehen.
 - Fehlklassifizierung: Kritische IKT-Assets wurden nicht als solche eingestuft.
 - Unangemessene Maßnahmen: Milderungsmaßnahmen (Controls) sind unwirksam oder nicht verhältnismäßig.
 - Keine Eskalation: Risiken werden nicht zeitnah an den Vorstand eskaliert.
 
-#Prüfungshandlungen (Audit Procedures)
+## Prüfungshandlungen (Audit Procedures)
 1. Überprüfung des IKT-Risikorahmenwerks & Inventars
 Inventar-Validierung: Ist das Verzeichnis aller IKT-Assets (Hardware, Software, Daten) aktuell und vollständig?
 - Klassifizierung: Wurde eine Klassifizierung der Assets nach Kritikalität (Vertraulichkeit, Integrität, Verfügbarkeit) durchgeführt?
