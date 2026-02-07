@@ -1,30 +1,31 @@
-# DORA – Regulatory Overview
+# DORA – Regulatorischer Überblick (Regulatory Overview)
 
-## Legal Basis
-- Regulation (EU) 2022/2554 (Digital Operational Resilience Act – DORA)
-- Directly applicable EU regulation (no national transposition required)
+## Rechtliche Grundlage (Legal Basis)
+- Verordnung (EU) 2022/2554 (Digital Operational Resilience Act – DORA).
+- Direkt anwendbares EU-Recht: Keine nationale Umsetzung in deutsches Recht erforderlich, jedoch unmittelbare Geltung.
+- Anwendbarkeit: Ab dem 17. Januar 2025.
 
-## Regulatory Objective
-DORA establishes a harmonised framework to ensure that financial entities
-can withstand, respond to, and recover from ICT-related disruptions.
+## Regulatorisches Ziel (Regulatory Objective)
+DORA schafft einen einheitlichen Rahmen, um sicherzustellen, dass Finanzunternehmen IKT-bezogenen Störungen standhalten, darauf reagieren und sich davon erholen können.
 
-The regulation focuses on operational resilience rather than pure IT security.
+Audit-Fokus: Die Regulierungsphilosophie verschiebt sich von reinem IT-Sicherheitsmanagement (Schutz vor Angriffen) hin zu operativer Resilienz (Widerstandsfähigkeit im laufenden Betrieb).
 
-## Scope of Application
-- Credit institutions
-- Payment service providers
-- Investment firms
-- Insurance and reinsurance undertakings
-- Critical ICT third-party service providers (indirectly)
+## Anwendungsbereich (Scope of Application)
+DORA gilt für eine Vielzahl von Finanzunternehmen, darunter:
+- Kreditinstitute (Banken)
+- Zahlungsinstitute und E-Geld-Institute
+- Wertpapierfirmen
+- Versicherungs- und Rückversicherungsunternehmen
+- Kritische IKT-Drittdienstleister (indirekt über die Finanzinstitute, direkt über das neue Überwachungssystem der europäischen Aufsichtsbehörden).
 
-## Key Pillars of DORA
-1. ICT Risk Management
-2. ICT-related Incident Management
-3. Digital Operational Resilience Testing
-4. ICT Third-Party Risk Management
-5. Information Sharing Arrangements
+## Die 5 Säulen von DORA (Key Pillars)
+1. IKT-Risikomanagement: Aufbau eines umfassenden Rahmens für IKT-Risiken.
+2. IKT-bezogenes Vorfallmanagement: Klassifizierung, Meldung und Analyse von IKT-Vorfällen.
+3. Digitale operationale Resilienztests: Durchführung von Tests, inkl. fortgeschrittener Penetrationstests (TLPT) für kritische Institute.
+4. IKT-Drittparteienrisiko: Verwaltung von Risiken aus Outsourcing-Beziehungen (Register, Verträge, Exit-Strategien).
+5. Informationsaustausch: Freiwilliger Austausch von Cyber-Bedrohungsinformationen.
 
-## Supervisory Authorities
-- National Competent Authorities (e.g. BaFin)
-- European Supervisory Authorities (EBA, ESMA, EIOPA)
+Aufsichtsbehörden (Supervisory Authorities)
+Nationale zuständige Behörden (NCA): In Deutschland die BaFin und die Deutsche Bundesbank.
 
+Europäische Aufsichtsbehörden (ESAs): EBA (Banken), ESMA (Märkte), EIOPA (Versicherungen).
