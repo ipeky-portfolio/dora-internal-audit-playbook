@@ -1,29 +1,21 @@
-# dora-internal-audit-playbook
+# DORA Compliance Audit Framework
 
-## Purpose
-This repository demonstrates practical knowledge in conducting internal audits
-under the EU Digital Operational Resilience Act (DORA).
+Dieses Repository enthält ein umfassendes Framework zur Vorbereitung und Durchführung von internen Audits gemäß dem **Digital Operational Resilience Act (DORA)** im Kontext des deutschen Bankenaufsichtsrechts (MaRisk/BAIT).
 
-The project simulates a full-scope internal audit for a fictional bank and
-includes regulatory mapping, audit programs, sample findings and a mock audit report.
+## Struktur des Repositorys
 
-## Scope
-- DORA (EU) 2022/2554
-- All five DORA pillars
-- Internal audit / readiness assessment perspective
+* `01_regulator_overview/`: Regulatorische Grundlagen und Mapping zu MaRisk/BAIT.
+* `02_audit_methodology/`: Prüfungsansatz, Grundsätze und Lebenszyklus.
+* `03_audit_modules/`: Detaillierte Prüfungshandlungen für die 5 Säulen von DORA.
+* `04_mock_audit_scenarios/`: Simulationen von Aufsichtsprüfungen (BaFin §44).
+* `05_working_papers_templates/`: Vorlagen für Feststellungen und Prüfungsprogramme.
+* `06_follow_up/`: Prozesse zur Behebung und Nachverfolgung von Feststellungen.
+* `07_links_and_resources/`: Offizielle Quellen und weiterführende Links.
 
-## Target Audience
-- Internal Auditors
-- IT Risk & Compliance Professionals
-- Consultants
-- Regulators (conceptual)
+## Zielsetzung
+* **Audit Readiness:** Sicherstellung der Konformität vor dem 17. Januar 2025.
+* **Effizienz:** Bündelung von DORA-, MaRisk- und BAIT-Prüfungen.
+* **Qualität:** Gewährleistung eines audit-sicheren Nachweises (Audit Trail).
 
-## Disclaimer
-This repository contains **fictional data only**.
-No real bank, system, or confidential information is used.
-
-## Structure
-- Regulatory mapping (DORA → audit controls)
-- Audit programs & checklists
-- Mock audit case with findings
-- Audit report templates
+## Lizenz
+Proprietär - [Name deines Unternehmens/Projekts].
