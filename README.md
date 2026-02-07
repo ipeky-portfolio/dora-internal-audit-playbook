@@ -17,5 +17,4 @@ Dieses Repository enthält ein umfassendes Framework zur Vorbereitung und Durchf
 * **Effizienz:** Bündelung von DORA-, MaRisk- und BAIT-Prüfungen.
 * **Qualität:** Gewährleistung eines audit-sicheren Nachweises (Audit Trail).
 
-## Lizenz
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die [LICENSE](LICENSE)-Datei für weitere Details.
+Disclaimer: Dieses Repository ist ein fiktives Mock-Audit und dient ausschließlich zu Demonstrationszwecken. Die Inhalte basieren auf typischen aufsichtlichen Anforderungen, ersetzen jedoch keine formale Rechtsberatung oder tatsächliche Audit-Dokumentation.
