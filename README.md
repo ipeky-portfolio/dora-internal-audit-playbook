@@ -18,4 +18,4 @@ Dieses Repository enthält ein umfassendes Framework zur Vorbereitung und Durchf
 * **Qualität:** Gewährleistung eines audit-sicheren Nachweises (Audit Trail).
 
 ## Lizenz
-Proprietär - [Name deines Unternehmens/Projekts].
+Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die [LICENSE](LICENSE)-Datei für weitere Details.
