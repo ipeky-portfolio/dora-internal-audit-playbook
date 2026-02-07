@@ -1,15 +1,16 @@
-##Audit Module 04 – Digitale operationale Resilienztests
+# Audit Module 04 – Digitale operationale Resilienztests
 
-#Zielsetzung (Objective)
+## Zielsetzung (Objective)
 Beurteilung, ob das Programm für Resilienztests angemessen, risikobasiert und umfassend ist, um die Wirksamkeit der Sicherheitsmaßnahmen zu validieren und Schwachstellen rechtzeitig zu identifizieren.
 
-#Hauptrisiken (Key Risks)
+## Hauptrisiken (Key Risks)
 -Unvollständige Abdeckung: Kritische Systeme oder IKT-Drittanbieter werden nicht getestet.
 - Mangelnde Frequenz: Tests werden nicht regelmäßig oder nicht nach signifikanten Änderungen durchgeführt.
 - Ineffektive Behebung: Identifizierte Schwachstellen werden nicht innerhalb angemessener Fristen behoben.
 -  Ungeeignete Testmethoden: Die gewählten Tests (z.B. nur einfache Scans) sind nicht ausreichend für das Risikoprofil.
 
-#Prüfungshandlungen (Audit Procedures)
+## Prüfungshandlungen (Audit Procedures)
+
 1. Überprüfung der Teststrategie
 Richtlinienanalyse: Liegt ein jährliches Resilienztestprogramm vor, das den Anforderungen von DORA Art. 24 ff. entspricht?
 - Risikobasierung: Wird die Frequenz und Art der Tests auf Basis der Kritikalität der Assets bestimmt?
